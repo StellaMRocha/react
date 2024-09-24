@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Aula React - Atividade Formulário
+
+Um projeto em React que tenha as telas de cadastro para Categoria e Usuário.
+Um Menu para navegar entre as duas telas de cadastro
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
