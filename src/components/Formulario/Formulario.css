@@ -1,0 +1,42 @@
+/* Estilo do contêiner do formulário */
+form {
+    display: flex;
+    flex-direction: column; /* Alinha os elementos em coluna */
+    max-width: 400px; /* Largura máxima do formulário */
+    margin: 0 auto; /* Centraliza o formulário na página */
+    padding: 20px; /* Espaçamento interno */
+    border: 1px solid #ccc; /* Borda do formulário */
+    border-radius: 5px; /* Cantos arredondados */
+    background-color: #f9f9f9; /* Cor de fundo */
+}
+
+/* Estilo dos rótulos (labels) */
+.label-campo {
+    margin-bottom: 5px; /* Espaço abaixo do rótulo */
+    font-weight: bold; /* Negrito */
+}
+
+/* Estilo dos campos de entrada */
+.input-campo {
+    margin-bottom: 15px; /* Espaço abaixo dos campos de entrada */
+    padding: 10px; /* Espaçamento interno */
+    border: 1px solid #ccc; /* Borda dos campos */
+    border-radius: 4px; /* Cantos arredondados */
+    font-size: 16px; /* Tamanho da fonte */
+}
+
+/* Estilo do botão */
+.botao-grande {
+    padding: 10px 20px; /* Espaçamento interno do botão */
+    font-size: 16px; /* Tamanho da fonte do botão */
+    background-color: #4CAF50; /* Cor de fundo do botão */
+    color: white; /* Cor do texto do botão */
+    border: none; /* Sem borda */
+    border-radius: 4px; /* Cantos arredondados */
+    cursor: pointer; /* Cursor em forma de mão ao passar o mouse */
+}
+
+/* Efeito ao passar o mouse sobre o botão */
+.botao-grande:hover {
+    background-color: #5045a0; /* Cor de fundo ao passar o mouse */
+}

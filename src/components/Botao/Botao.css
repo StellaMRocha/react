@@ -1,0 +1,9 @@
+.botao-grande {
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-top: 40px; /* Espaço acima do botão */
+    margin-left: auto; /* Centraliza horizontalmente */
+    margin-right: auto; /* Centraliza horizontalmente */
+    display: block; /* Garante que o botão ocupe uma linha inteira */
+    width: 10%; /* Ajuste a largura conforme necessário */
+}
